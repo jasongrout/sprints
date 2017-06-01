@@ -2,15 +2,11 @@
 
 Sprinting at [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny)
 
-## Date
+## When and Where
 
-August
-
-## Location
-
-New York Hilton Midtown
-
-Room TBD
+Date: Saturday, August 26
+Room: Regent Parlor
+Location: Hilton Midtown - 1335 6th Ave., NY NY
 
 ## Topics
 
