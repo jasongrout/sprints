@@ -1,6 +1,6 @@
 # jupytercon-sprints
 
-Sprinting at JupyterCon
+Sprinting at [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny)
 
 ## Date
 
